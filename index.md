@@ -53,3 +53,7 @@ A copy of my resume and professional background can be found here:
 
 - GitHub: https://github.com/yourusername  
 - LinkedIn: https://www.linkedin.com/in/aidan-giebelhausen-7287a821b/
+
+## Notes
+
+All work contained in this portfolio is based on publicly available information and independent engineering analysis. No proprietary, export-controlled, or classified information is included.
