@@ -21,7 +21,7 @@ Topics:
 - Design trade analysis
 
 Repository:  
-[View Project Repository](https://github.com/yourusername/aircraft-performance-trade-study)
+[View Project Repository](https://github.com/AidanGiebel/projects)
 
 ---
 
