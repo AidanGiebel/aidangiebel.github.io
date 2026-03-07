@@ -5,7 +5,7 @@ title: Aerospace Portfolio
 # Aidan G
 
 **Aerospace Engineer**  
-Modeling • Simulation • Systems Engineering • Aerodynamic Design • Embedded Software • Electronics
+Modeling • Simulation • Systems Engineering • Aerodynamic Design • Embedded Software • Electronic Design • CAD Modeling
 
 ---
 
