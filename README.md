@@ -11,7 +11,7 @@ Projects emphasize:
 - Verification and validation of engineering models
 - Clear technical documentation
 
-Most projects are implemented using Python and focus on building first-principles models of aerospace systems rather than relying solely on commercial software tools.
+Most projects are implemented using Python/Matlab and focus on building first-principles models of aerospace systems rather than relying solely on commercial software tools.
 
 ## Portfolio Structure
 
