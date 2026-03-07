@@ -3,14 +3,15 @@ Aerospace Engineer | Systems Engineering | Modeling & Simulation | Aerodynamic D
 
 Welcome to my aerospace engineering portfolio. This site documents engineering projects related to aircraft performance, flight dynamics, aerodynamics, and aerospace systems analysis.
 
-## Current Role
-Incoming Systems Engineer working on the F-35 program at Lockheed Martin.
+## Navigation
 
-## Portfolio Areas
-- Aircraft performance modeling
+- [Projects](projects.md)
+- [About](about.md)
+- [Resume](resume.md)
+
+## Areas of Work
+
+- Aircraft performance analysis
 - Flight dynamics simulation
-- Aerodynamic analysis
-- Guidance and navigation systems
-
-## Projects
-See the Projects page for detailed technical work.
+- Aerodynamic modeling
+- Guidance and control systems
