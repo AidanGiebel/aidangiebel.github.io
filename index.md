@@ -1,3 +1,5 @@
+## Portfolio Index
+
 Welcome to my aerospace engineering portfolio. This site documents engineering projects related to aircraft performance, flight dynamics, aerodynamics, and aerospace systems analysis.
 
 ## Navigation
