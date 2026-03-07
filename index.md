@@ -1,4 +1,4 @@
-# Aidan G.
+# Aerospace Engineering Portfolio
 Aerospace Engineer | Systems Engineering | Modeling & Simulation | Aerodynamic Design | Embedded Software Engineering
 
 Welcome to my aerospace engineering portfolio. This site documents engineering projects related to aircraft performance, flight dynamics, aerodynamics, and aerospace systems analysis.
