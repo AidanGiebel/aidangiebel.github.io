@@ -51,8 +51,8 @@ A copy of my resume and professional background can be found here:
 
 ## Contact
 
-[GitHub](https://github.com/AidanGiebel)
-[LinkedIn](https://www.linkedin.com/in/aidan-giebelhausen-7287a821b/)
+- [GitHub](https://github.com/AidanGiebel)
+- [LinkedIn](https://www.linkedin.com/in/aidan-giebelhausen-7287a821b/)
 
 ## Notes
 
