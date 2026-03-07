@@ -5,6 +5,7 @@ Welcome to my aerospace engineering portfolio. This site documents engineering p
 
 ## Navigation
 
+- [README](README.md)
 - [Projects](projects.md)
 - [About](about.md)
 - [Resume](resume.md)
