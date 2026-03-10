@@ -2,98 +2,65 @@
 title: Engineering Projects
 ---
 
-# Aerospace Engineering Projects
-
-This page contains a collection of engineering projects focused on modeling, simulation, and analysis of aerospace systems. Each project includes technical documentation, source code, and supporting analysis.
-
-Projects emphasize first-principles modeling, computational methods, and systems-level engineering approaches.
+This page highlights selected aerospace engineering work including aerodynamic analysis, orbital mechanics research, interceptor system design, and computational fluid dynamics.
 
 ---
 
-## Aircraft Performance & Design
+## AVL + XFOIL Aerodynamic Automation Tool
 
-### Aircraft Performance Constraint Analysis
-Preliminary aircraft sizing using classical constraint analysis techniques. This project evaluates thrust-to-weight and wing loading requirements based on takeoff, climb, sustained turn, and landing constraints.
+Developed a Python-based framework that automates aerodynamic analysis using AVL and XFOIL. The tool generates aircraft geometries, executes aerodynamic simulations across parameter sweeps, and aggregates stability and performance data for rapid design iteration.
 
-Topics:
-- Aircraft sizing
-- Performance constraints
-- Design trade analysis
+**Technologies**
 
-Repository:  
-[View Project Repository](https://github.com/AidanGiebel/projects)
+Python • AVL • XFOIL • Aerodynamic Modeling
+
+[Project Page](/projects/avl-xfoil-tool/)  
+[GitHub Repository](https://github.com/YOURUSERNAME/avl-xfoil-automation)
 
 ---
 
-### Conceptual Aircraft Design Study
-System-level study exploring design tradeoffs between range, payload capacity, and aerodynamic efficiency for a conceptual aircraft platform.
+## Astrodynamic Safe Capture Research
 
-Topics:
-- Weight estimation
-- Drag polar modeling
-- Mission performance analysis
+Research investigating safe orbital rendezvous and capture strategies for spacecraft operating in close proximity. The work evaluates stable approach trajectories and defines safe capture envelopes for spacecraft servicing or docking operations.
 
-Repository:  
-(Link will be added)
+**Technologies**
 
----
+Orbital Mechanics • MATLAB • Python • Astrodynamics
 
-## Flight Dynamics & Simulation
-
-### 6-DOF Aircraft Simulation
-Nonlinear rigid-body simulation of aircraft motion including translational and rotational dynamics. The model simulates aircraft response to control inputs and disturbances.
-
-Topics:
-- Six degree-of-freedom dynamics
-- Flight simulation
-- Control input response
-
-Repository:  
-(Link will be added)
+[Project Page](/projects/safe-capture/)  
+[Research Paper Repository](https://github.com/YOURUSERNAME/safe-capture-research)
 
 ---
 
-## Guidance, Navigation, and Control
+## Homeland Defense Interceptor Design
 
-### Extended Kalman Filter State Estimator
-Simulation of nonlinear state estimation for aerospace navigation systems using an Extended Kalman Filter. The project evaluates estimation accuracy under sensor noise and bias conditions.
+Conceptual interceptor design project focused on defending against high-speed aerial threats. The project evaluated interceptor trajectory design, engagement envelopes, and system-level performance under varying threat conditions.
 
-Topics:
-- State estimation
-- Sensor fusion
-- Navigation filtering
+**Technologies**
 
-Repository:  
-(Link will be added)
+Trajectory Modeling • Aerospace System Design • MATLAB • Python
+
+[Project Page](/projects/interceptor-design/)  
+[Project Repository](https://github.com/YOURUSERNAME/interceptor-design)
 
 ---
 
-## Aerodynamic Modeling
+## CAD and CFD Examples
 
-### Vortex Lattice Method Solver
-Implementation of a vortex lattice aerodynamic solver for estimating lift distribution and aerodynamic coefficients for finite wings.
+Collection of aerospace CAD models and CFD simulations demonstrating aerodynamic analysis and flow visualization techniques.
 
-Topics:
-- Aerodynamic modeling
-- Lift distribution analysis
-- Computational aerodynamics
+Examples include:
 
-Repository:  
-(Link will be added)
+- Airfoil CFD simulations
+- Wing aerodynamic analysis
+- Pressure and velocity contour visualization
+- Aerospace component CAD models
 
----
+**Tools**
 
-## Future Work
+ANSYS Fluent • CFD • CAD Modeling
 
-Additional projects planned for this portfolio include:
-
-- Rocket trajectory simulation  
-- Mission performance analysis tools  
-- Flight control system design studies  
-- Aerospace systems trade studies  
+[Project Page](/projects/cad-cfd/)  
+[Example Files Repository](https://github.com/aidangiebel/cad-cfd-examples)
 
 ---
-
-## Notes
-
-All projects contained in this portfolio are developed independently using publicly available information. No proprietary, export-controlled, or classified information is included.
