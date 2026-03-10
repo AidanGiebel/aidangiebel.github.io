@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-**Aerospace Engineer**  
+## Aerospace Engineer
 Modeling • Simulation • Systems Engineering • Aerodynamic Design • Embedded Software • Electronic Design • CAD Modeling
 
 ---
