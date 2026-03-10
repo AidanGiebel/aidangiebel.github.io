@@ -6,7 +6,7 @@ title: Resume
 
 agiebelh@gmail.com  
 [linkedin.com/in/aidan-giebelhausen-7287a821b](https://linkedin.com/in/aidan-giebelhausen-7287a821b)
-<a class="resume-button" href="/assets/files/Aidan_G_Resume.pdf" target="_blank">
+<a class="resume-button" href="/assets/files/Resume_download_AidanG.pdf" target="_blank">
 Download Resume
 </a>
 ---
