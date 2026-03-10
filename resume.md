@@ -6,9 +6,28 @@ title: Resume
 
 agiebelh@gmail.com  
 [linkedin.com/in/aidan-giebelhausen-7287a821b](https://linkedin.com/in/aidan-giebelhausen-7287a821b)
-<a class="resume-button" href="/assets/files/Resume_download_AidanG.pdf" target="_blank">
-Download Resume
+
+<style>
+.resume-button {
+  display: inline-block;
+  padding: 10px 18px;
+  margin-top: 10px;
+  border: 1px solid #333;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.resume-button:hover {
+  background-color: #333;
+  color: white;
+}
+</style>
+
+<a class="resume-button" href="/assets/files/Resume_download_AidanG.pdf">
+  Download Resume
 </a>
+
 ---
 
 ## AEROSPACE SYSTEMS ENGINEER  
