@@ -21,7 +21,7 @@ Python • AVL • XFOIL • Aerodynamic Modeling
 
 ---
 
-## Astrodynamic Safe Capture Research
+## Astrodynamic Safe Capture Convex Optimization Simulation
 
 Research investigating safe orbital rendezvous and capture strategies for spacecraft operating in close proximity. The work evaluates stable approach trajectories and defines safe capture envelopes for spacecraft servicing or docking operations.
 

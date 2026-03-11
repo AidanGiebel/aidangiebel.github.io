@@ -24,14 +24,14 @@ Welcome to my aerospace engineering portfolio. This site documents technical pro
 
 ## Projects
 
-### Aircraft Performance Constraint Analysis
-Preliminary aircraft sizing using classical thrust-to-weight vs wing loading constraint analysis.
+### AVL + XFOIL Aerodynamic Automation Tool
+Developed a Python-based framework that automates aerodynamic analysis using AVL and XFOIL.
 
-### Extended Kalman Filter Simulation
-Simulation of nonlinear state estimation for aerospace navigation systems.
+### Astrodynamic Safe Capture Convex Optimization Simulation
+Research investigating safe orbital rendezvous and capture strategies for spacecraft operating in close proximity.
 
-### 6-DOF Aircraft Flight Simulation
-Nonlinear rigid-body simulation of aircraft dynamics and control response.
+### Homeland Defense Interceptor Design
+Conceptual interceptor design project focused on defending against high-speed aerial threats.
 
 ➡ **View all projects:**  
 [Projects Page](projects.md)
