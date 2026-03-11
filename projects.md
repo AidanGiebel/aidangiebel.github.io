@@ -5,11 +5,13 @@ title: Engineering Projects
 This page highlights selected aerospace engineering work including aerodynamic analysis, orbital mechanics research, interceptor system design, and computational fluid dynamics.
 
 ---
-<div style="background:#f4f6fa; padding:20px; border-radius:8px; margin-bottom:20px;">
+
 ## AVL + XFOIL Aerodynamic Automation Tool
 
+<div style="background:#f4f6fa; padding:20px; border-radius:8px; margin-bottom:20px;">
 Developed a Python-based framework that automates aerodynamic analysis using AVL and XFOIL. The tool generates aircraft geometries, executes aerodynamic simulations across parameter sweeps, and aggregates stability and performance data for rapid design iteration.
 </div>
+
 **Technologies**
 
 Python • AVL • XFOIL • Aerodynamic Modeling
