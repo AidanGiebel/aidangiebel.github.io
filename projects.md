@@ -23,7 +23,9 @@ Python • AVL • XFOIL • Aerodynamic Modeling
 
 ## Astrodynamic Safe Capture Convex Optimization Simulation
 
+<div style="background:#555555; padding:20px; border-radius:8px; margin-bottom:20px;">
 Research investigating safe orbital rendezvous and capture strategies for spacecraft operating in close proximity. The work evaluates stable approach trajectories and defines safe capture envelopes for spacecraft servicing or docking operations.
+</div>
 
 **Technologies**
 
@@ -36,7 +38,9 @@ Orbital Mechanics • MATLAB • Python • Astrodynamics
 
 ## Homeland Defense Interceptor Design
 
+<div style="background:#555555; padding:20px; border-radius:8px; margin-bottom:20px;">
 Conceptual interceptor design project focused on defending against high-speed aerial threats. The project evaluated interceptor trajectory design, engagement envelopes, and system-level performance under varying threat conditions.
+</div>
 
 **Technologies**
 
@@ -49,7 +53,9 @@ Trajectory Modeling • Aerospace System Design • MATLAB • Python
 
 ## CAD and CFD Examples
 
+<div style="background:#555555; padding:20px; border-radius:8px; margin-bottom:20px;">
 Collection of aerospace CAD models and CFD simulations demonstrating aerodynamic analysis and flow visualization techniques.
+</div>
 
 Examples include:
 
