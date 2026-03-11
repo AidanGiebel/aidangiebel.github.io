@@ -16,7 +16,7 @@ Developed a Python-based framework that automates aerodynamic analysis using AVL
 
 Python • AVL • XFOIL • Aerodynamic Modeling
 
-[Project Page](/projects/avl-xfoil-tool/)  
+[Project Page](/projects/avl-xfoil-tool)  
 [GitHub Repository](https://github.com/YOURUSERNAME/avl-xfoil-automation)
 
 ---
@@ -29,7 +29,7 @@ Research investigating safe orbital rendezvous and capture strategies for spacec
 
 Orbital Mechanics • MATLAB • Python • Astrodynamics
 
-[Project Page](/projects/safe-capture/)  
+[Project Page](/projects/safe-capture)  
 [Research Paper Repository](https://github.com/YOURUSERNAME/safe-capture-research)
 
 ---
@@ -42,7 +42,7 @@ Conceptual interceptor design project focused on defending against high-speed ae
 
 Trajectory Modeling • Aerospace System Design • MATLAB • Python
 
-[Project Page](/projects/interceptor-design/)  
+[Project Page](/projects/interceptor-design)  
 [Project Repository](https://github.com/YOURUSERNAME/interceptor-design)
 
 ---
@@ -62,7 +62,7 @@ Examples include:
 
 ANSYS Fluent • CFD • CAD Modeling
 
-[Project Page](/projects/cad-cfd/)  
+[Project Page](/projects/cad-cfd)  
 [Example Files Repository](https://github.com/aidangiebel/cad-cfd-examples)
 
 ---
