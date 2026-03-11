@@ -1,3 +1,26 @@
+---
+---
+
+@import "minima";
+
+/* YOUR CUSTOM STYLES BELOW */
+
+.site-header {
+  background-color: #0f172a !important;
+}
+
+.site-title {
+  color: white !important;
+}
+
+.site-nav a {
+  color: white !important;
+}
+
+.site-nav a:hover {
+  color: #38bdf8 !important;
+}
+
 .site-footer {
   text-align: center;
   padding: 40px 0;
