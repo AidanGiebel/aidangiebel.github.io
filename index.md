@@ -1,16 +1,3 @@
-.site-header {
-  background-color: #0f172a;
-  border-bottom: none;
-}
-
-.site-title, .site-nav a {
-  color: white !important;
-}
-
-.site-nav a:hover {
-  color: #38bdf8 !important;
-}
-
 ---
 layout: page
 title: Home
