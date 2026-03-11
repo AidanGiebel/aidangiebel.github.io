@@ -8,7 +8,7 @@ This page highlights selected aerospace engineering work including aerodynamic a
 
 ## AVL + XFOIL Aerodynamic Automation Tool
 
-<div style="background:#f4f6fa; padding:20px; border-radius:8px; margin-bottom:20px;">
+<div style="background:#cfcfcf; padding:20px; border-radius:8px; margin-bottom:20px;">
 Developed a Python-based framework that automates aerodynamic analysis using AVL and XFOIL. The tool generates aircraft geometries, executes aerodynamic simulations across parameter sweeps, and aggregates stability and performance data for rapid design iteration.
 </div>
 
