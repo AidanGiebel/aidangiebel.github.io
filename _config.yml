@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jekyll/minima@3.0
 minima:
   skin: dark
 title: Aidan G Aerospace Portfolio
