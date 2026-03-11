@@ -1,6 +1,4 @@
----
-title: Home
----
+.
 ## Aerospace Engineer
 Modeling • Simulation • Systems Engineering • Aerodynamic Design • Embedded Software • Electronic Design • CAD Modeling
 
@@ -24,7 +22,7 @@ Welcome to my aerospace engineering portfolio. This site documents technical pro
 
 ## Projects
 
-### Aircraft Performance Constraint Analysis
+### AVL + XFOIL Aerodynamic Automation Tool
 Preliminary aircraft sizing using classical thrust-to-weight vs wing loading constraint analysis.
 
 ### Extended Kalman Filter Simulation
