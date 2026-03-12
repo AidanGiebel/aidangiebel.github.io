@@ -1,4 +1,4 @@
-# AAE 590 One Page Project Summary
+## One Page Project Summary
 
 **Aidan Giebelhausen**
 
@@ -22,9 +22,12 @@ Formulate the problem using a discrete-time Clohessy-Wiltshire-Hill (CWH) model 
 This was done by convexification and introducing a slack variable to soften hard constraints and improve feasibility.
 
 ### Results
-*(Collision, Velocity, and Thrust Constraints)*
 
-> Insert trajectory plots or figures here.
+#### Relative Position Trajectory
+![Relative Position](/assets/images/relative_position.png)
+
+#### Optimal Variables Over Time
+![Optimal Variables](/assets/images/optimal_graphs_all.png)
 
 ### Discussion
 The generated trajectories demonstrate that soft capture maneuvers can be planned within realistic mission constraints using convex optimization. The inclusion of thrust and velocity bounds ensures the solution remains safe for low-thrust docking objectives at close ranges. The relaxed collision-avoidance constraint allows for flexible enforcement of collision avoidance while maintaining convexity.
