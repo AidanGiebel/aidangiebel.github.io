@@ -1,10 +1,12 @@
 ---
 layout: page
-title: One Page Project Summary
 permalink: /projects/summary/
 published: true
+nav_exclude: true
 sitemap: false
 ---
+
+## One Page Project Summary
 
 **Aidan Giebelhausen**
 
