@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+nav: true
 ---
 
 ## Aerospace Engineer

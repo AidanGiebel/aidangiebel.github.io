@@ -1,5 +1,6 @@
 ---
 title: Resume
+nav: true
 ---
 
 # Aidan Giebelhausen Resume

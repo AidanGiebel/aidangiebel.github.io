@@ -1,5 +1,6 @@
 ---
 title: Engineering Projects
+nav: true
 ---
 
 This page highlights selected aerospace engineering work including aerodynamic analysis, orbital mechanics research, interceptor system design, and computational fluid dynamics.
