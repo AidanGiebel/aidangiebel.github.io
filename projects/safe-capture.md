@@ -1,9 +1,3 @@
----
-layout: page
-title: "Convex Analysis of a Soft Capture Problem"
-permalink: /projects/soft-capture/
----
-
 # AAE 590 One Page Project Summary
 
 **Aidan Giebelhausen**
