@@ -1,11 +1,3 @@
----
-layout: page
-permalink: /projects/summary/
-published: true
-nav_exclude: true
-sitemap: false
----
-
 ## One Page Project Summary
 
 **Aidan Giebelhausen**
