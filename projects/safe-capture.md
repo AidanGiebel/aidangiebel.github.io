@@ -1,6 +1,4 @@
-## One Page Project Summary
-
-**Aidan Giebelhausen**
+**One Page Project Summary**
 
 ## A Convex Analysis of a Soft Capture Problem
 
