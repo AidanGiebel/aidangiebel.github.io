@@ -1,4 +1,8 @@
-## One Page Project Summary
+---
+layout: page
+title: "One Page Project Summary"
+nav_exclude: true
+---
 
 **Aidan Giebelhausen**
 
