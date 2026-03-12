@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "One Page Project Summary"
-nav_exclude: true
+title: One Page Project Summary
+permalink: /projects/summary/
+published: true
+sitemap: false
 ---
 
 **Aidan Giebelhausen**
