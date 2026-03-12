@@ -32,7 +32,7 @@ Research investigating safe orbital rendezvous and capture strategies for spacec
 Orbital Mechanics • MATLAB • Python • Astrodynamics
 
 [Project Page](/projects/safe-capture)  
-[Research Paper Repository](https://github.com/YOURUSERNAME/safe-capture-research)
+[Research Paper Repository](https://github.com/AidanGiebel/safe-capture-research)
 
 ---
 
