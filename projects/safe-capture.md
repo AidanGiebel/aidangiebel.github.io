@@ -1,4 +1,3 @@
-## One Page Project Summary
 
 **Aidan Giebelhausen**
 

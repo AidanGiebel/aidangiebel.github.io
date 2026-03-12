@@ -44,7 +44,7 @@ Conceptual interceptor design project focused on defending against high-speed ae
 
 **Technologies**
 
-Trajectory Modeling • Aerospace System Design • MATLAB • Python
+Trajectory Modeling • Aerospace System Design • MATLAB • Convex Optimization 
 
 [Project Page](/projects/interceptor-design)  
 [Project Repository](https://github.com/YOURUSERNAME/interceptor-design)
