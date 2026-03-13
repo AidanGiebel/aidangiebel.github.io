@@ -1,4 +1,4 @@
-** Homeland Defense Interceptor (HDI) **
+**Homeland Defense Interceptor (HDI)**
 
 ![Final HDI Aircraft Render](assets/images/hdi/final_aircraft_render.png)
 

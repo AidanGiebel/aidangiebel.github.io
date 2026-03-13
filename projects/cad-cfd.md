@@ -1,6 +1,4 @@
-** CAD and CFD Work **
-
-# CAD & CFD Work
+**CAD and CFD Work**
 
 This page highlights selected CAD models and computational fluid dynamics simulations I have completed during coursework and independent projects. These examples demonstrate experience with engineering design, geometry creation, and aerodynamic analysis.
 
@@ -11,21 +9,27 @@ This page highlights selected CAD models and computational fluid dynamics simula
 A selection of CAD models created for design projects and engineering coursework.
 
 ### Aircraft Wing Assembly
-![Wing CAD](images/cad-wing.png)
+| CAD Model | CAD Model | CAD Model |
+|-----------|-----------|-----------|
+| ![](images/cad1.png) | ![](images/cad2.png) | ![](images/cad3.png) |
 
 Parametric wing assembly including ribs, spars, and skin surfaces created for conceptual aircraft design work.
 
 ---
 
 ### Turbine Component
-![Turbine CAD](images/cad-turbine.png)
+| CAD Model | CAD Model | CAD Model |
+|-----------|-----------|-----------|
+| ![](images/cad1.png) | ![](images/cad2.png) | ![](images/cad3.png) |
 
 Modeled turbine component demonstrating surface modeling and complex geometry construction.
 
 ---
 
 ### Mechanical Assembly
-![Assembly CAD](images/cad-assembly.png)
+| CAD Model | CAD Model | CAD Model |
+|-----------|-----------|-----------|
+| ![](images/cad1.png) | ![](images/cad2.png) | ![](images/cad3.png) |
 
 Multi-part assembly created to demonstrate part relationships, constraints, and design integration.
 
