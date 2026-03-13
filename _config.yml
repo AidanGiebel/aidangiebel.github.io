@@ -5,7 +5,3 @@ plugins:
 
 minima:
   skin: dark
-  header_pages:
-    - index.md
-    - resume.md
-    - projects.md

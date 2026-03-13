@@ -12,7 +12,7 @@ As autonomous spacecraft operations become more common, robust and reliable dock
 Formulate the problem using a discrete-time Clohessy-Wiltshire-Hill (CWH) model for relative motion. Use convex optimization (CVX) to minimize control effort while satisfying key constraints.
 
 - Boundary conditions on initial/final position and velocity  
-- Control magnitude constraints  
+- Control magnitude constraints  w
 - Velocity limits  
 - Collision constraints  
 - Relaxed second-order cone constraints for FOV limits  

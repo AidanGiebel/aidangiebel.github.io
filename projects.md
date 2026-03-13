@@ -18,7 +18,7 @@ Developed a Python-based framework that automates aerodynamic analysis using AVL
 Python • AVL • XFOIL • Aerodynamic Modeling
 
 [Project Page](/projects/avl-xfoil-tool)  
-[GitHub Repository](https://github.com/YOURUSERNAME/avl-xfoil-automation)
+[GitHub Repository](https://github.com/AidanGiebel/avl-xfoil-automation)
 
 ---
 
@@ -48,7 +48,7 @@ Conceptual interceptor design project focused on defending against high-speed ae
 Trajectory Modeling • Aerospace System Design • MATLAB • Convex Optimization 
 
 [Project Page](/projects/interceptor-design)  
-[Project Repository](https://github.com/YOURUSERNAME/interceptor-design)
+[Project Repository](https://github.com/AidanGiebel/interceptor-design)
 
 ---
 
@@ -70,6 +70,6 @@ Examples include:
 ANSYS Fluent • CFD • CAD Modeling
 
 [Project Page](/projects/cad-cfd)  
-[Example Files Repository](https://github.com/aidangiebel/cad-cfd-examples)
+[Example Files Repository](https://github.com/AidanGiebel/cad-cfd-examples)
 
 ---
