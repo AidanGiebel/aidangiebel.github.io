@@ -1,4 +1,4 @@
-** AVL / XFOIL Python Interface – Aerodynamic Lookup Table Generation **
+**AVL / XFOIL Python Interface – Aerodynamic Lookup Table Generation**
 
 # AVL / XFOIL Python Interface for Dragonfly Autopilot
 
