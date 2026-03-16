@@ -62,7 +62,8 @@ Computational mesh used for CFD simulation with refinement near aerodynamic surf
 
 # Tools & Software
 
-- SolidWorks / CATIA
+- SolidWorks
+- NX
 - ANSYS Fluent
 - MATLAB
 - Python
