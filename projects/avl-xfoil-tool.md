@@ -1,8 +1,8 @@
-**AVL / XFOIL Python Interface for Dragonfly Autopilot**
+**AVL / XFOIL Python Interface for Dragonfly Autopilot#**
 
 ## Project Overview
 
-This project used an existing **AVL / XFOIL Python interface** to generate aerodynamic data for a flight dynamics model of the *Dragonfly aircraft*.  
+This project used an existing **AVL / XFOIL Python interface** to generate aerodynamic data for a flight dynamics model of the *Dragonfly aircraft*. None of this data is from the dragonfly aircraft as that is propritary data this is example code I have made seperatly to show what I have done. 
 
 The goal was to automate aerodynamic analysis across a wide range of flight conditions in order to generate a **lookup table used as the aerodynamic plant for an autopilot simulation**.
 
