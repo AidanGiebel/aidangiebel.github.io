@@ -4,7 +4,7 @@
 
 This project used an existing **AVL / XFOIL Python interface** to generate aerodynamic data for a flight dynamics model of the *Dragonfly aircraft*. None of this data is from the dragonfly aircraft as that is propritary data this is example code I have made seperatly to show what I have done. 
 
-The goal was to automate aerodynamic analysis across a wide range of flight conditions in order to generate a **lookup table used as the aerodynamic plant for an autopilot simulation**.
+The goal was to automate aerodynamic analysis across a wide range of flight conditions in order to generate a **lookup table used as the aerodynamic plant for an autopilot simulation**. 
 
 The base AVL/XFOIL interface was sourced from an open-source GitHub repository. My contribution was designing and implementing a **Python automation framework** that repeatedly ran aerodynamic analyses across many flight conditions and compiled the results into a structured dataset suitable for flight simulation and control development.
 
@@ -12,13 +12,13 @@ The base AVL/XFOIL interface was sourced from an open-source GitHub repository. 
 
 ## Objective
 
-Create an aerodynamic dataset that maps:
+Create an aerodynamic dataset that automatically maps:
 
 - Angle of Attack  
 - Flight Velocity  
 - Elevator Deflection  
 
-to resulting aerodynamic forces and moments.
+to resulting aerodynamic forces and moments. This must be done on a pyhton based AVL model of a plane that can be easily changed and understood easier than in AVL's natural environment. 
 
 This dataset was then used as a **lookup table representing the aircraft plant** for an autopilot simulation.
 
