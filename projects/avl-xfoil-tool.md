@@ -49,13 +49,13 @@ The aerodynamic model was evaluated across a multidimensional parameter space.
 
 Example parameter ranges:
 
-| Parameter | Range |
-|--------|--------|
-| Angle of Attack | *(insert range)* |
-| Velocity | *(insert range)* |
-| Elevator Deflection | *(insert range)* |
+| Parameter | Range | Step |
+|--------|--------|--------|
+| Angle of Attack (aoa)| *-5:15* | 1 |
+| Velocity (m/s)| *10:30* | 5 |
+| Elevator Deflection (deg)| *0:10* | 1 |
 
-This resulted in **hundreds or thousands of aerodynamic simulations** automatically executed through the Python interface.
+This resulted in **over a thousand aerodynamic simulations** automatically executed through the Python interface.
 
 ---
 
