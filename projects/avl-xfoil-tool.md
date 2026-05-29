@@ -92,28 +92,4 @@ This resulted in **over a thousand aerodynamic simulations** automatically execu
 
 ---
 
-## Example Automation Code
-
-Below is a simplified example of the Python looping structure used to generate the aerodynamic dataset.
-
-```python
-for velocity in velocity_range:
-    for aoa in aoa_range:
-        for elevator in elevator_range:
-
-            results = run_avl_simulation(
-                velocity=velocity,
-                angle_of_attack=aoa,
-                elevator_deflection=elevator
-            )
-
-            lookup_table.append({
-                "velocity": velocity,
-                "aoa": aoa,
-                "elevator": elevator,
-                "CL": results.CL,
-                "CD": results.CD,
-                "Cm": results.Cm
-            })
-
 
