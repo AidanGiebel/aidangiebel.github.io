@@ -1,4 +1,4 @@
-**AVL / XFOIL Python Interface for Dragonfly Autopilot#**
+**AVL / XFOIL Python Interface for Dragonfly Autopilot**
 
 ## Project Overview
 
